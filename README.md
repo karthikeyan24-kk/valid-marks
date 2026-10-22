@@ -1,10 +1,19 @@
 # Valid Marks
 
-Student Marks Verification System
+## Student Marks Verification System
 
-## Project Goal
+Valid Marks is a college project designed to help students
+verify their internal examination marks.
 
-- Mentor uploads CA1, CA2, and model marks.
-- Students view and verify their marks.
-- Mentors review discrepancy reports.
-- Mentors export verification results to Excel.
+## Main Features
+
+- Mentor uploads CA1, CA2, and model marks together.
+- Students view and verify their own marks.
+- Students can accept marks or report discrepancies.
+- Mentors review and record discrepancy decisions.
+- Original marks remain unchanged.
+- Mentors export marks and verification records to Excel.
+
+## Project Status
+
+Project setup and GitHub connection in progress.
